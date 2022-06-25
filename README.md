@@ -29,3 +29,5 @@ python3 roshambo.py
 If you do want to use alternative options, enter them seperated by commas--e.g., ```(snake,king,queen,pig,assassin,guardian,lion)```
 
 ### Have fun!
+
+**Project transferred to a new repository for privacy-related reasons, I originally made this project in 2017**
